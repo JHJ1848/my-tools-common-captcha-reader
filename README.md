@@ -1,3 +1,9 @@
+<img width="1717" height="1440" alt="QQ_1769584311168" src="https://github.com/user-attachments/assets/61a694fb-9d83-4923-a35b-db1b602fdebc" />
+<img width="301" height="87" alt="QQ_1769584362315" src="https://github.com/user-attachments/assets/c6bb06b4-e08e-4878-be0b-1cadd1da9227" />
+<img width="288" height="88" alt="QQ_1769584389205" src="https://github.com/user-attachments/assets/8af638ff-7385-49ca-ab0c-a575eec9165d" />
+
+
+
 # Captcha Reader Service
 
 A backend service for captcha recognition via HTTP requests, capable of recognizing numbers and arithmetic operators (four fundamental operations) from base64 encoded images and returning the calculated result as an integer.
